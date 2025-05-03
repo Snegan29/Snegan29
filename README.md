@@ -44,7 +44,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 
 ---
 
