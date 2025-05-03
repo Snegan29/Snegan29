@@ -1,17 +1,15 @@
 ## Hi there 👋 I'm Snegan!
 
-🚀 A passionate **Full-Stack Web Developer** from India, constantly exploring the digital frontier and crafting intuitive, scalable, and performance-optimized web applications.
+🚀 A passionate **Full-Stack Web Developer**, constantly exploring the digital frontier and crafting intuitive, scalable, and performance-optimized web applications.
 
 ---
 
 ### 💼 About Me
 
-- 🧠 Currently pursuing **BCA at Kalvum** with a focus on modern web technologies and software design.
+- 🧠 Currently pursuing **BCA at Kalvium** with a focus on modern web technologies and software design.
 - 💻 Skilled in building end-to-end applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 🔐 Experienced with **JWT Authentication**, **Role-Based Access Control**, and secure backend architectures.
-- 📦 Built real-time features using **WebSockets** and **Socket.io**.
 - 📚 Constantly learning new stacks and refining my clean code principles.
-
 
 ---
 
