@@ -11,25 +11,7 @@
 - 🔐 Experienced with **JWT Authentication**, **Role-Based Access Control**, and secure backend architectures.
 - 📦 Built real-time features using **WebSockets** and **Socket.io**.
 - 📚 Constantly learning new stacks and refining my clean code principles.
-- 🌐 I create projects with real-world use cases, from **task managers** and **collaborative editors** to **pet adoption platforms** and more.
-- 🛠️ Strong in **Database Design**, **API integration**, **Cloudinary**, **MongoDB**, and **PostgreSQL**.
 
----
-
-### 🔭 Current Focus
-
-- ⚙️ Building **CollabSleuth** – a collaborative investigation platform with live editing, detective challenges, and multiplayer mechanics.
-- 🧠 Mastering **Redux Toolkit**, **TailwindCSS**, and **Monaco Editor** for performance-driven UIs.
-- 🌍 Learning **efficient deployment** and CI/CD with tools like **Render**, **Vercel**, and **Docker**.
-
----
-
-### 🌱 Always Growing In:
-
-- 🔧 TypeScript & Testing Frameworks (Jest, Vitest)
-- 🌐 GraphQL & RESTful APIs
-- ☁️ Scalable cloud infrastructure (AWS, GCP)
-- ⚡ Web performance & optimization
 
 ---
 
@@ -44,16 +26,9 @@
 ### 🤝 Let's Connect
 
 - 💬 Ask me about **full-stack web development**, **project architecture**, or **building unique web apps**.
-- 📫 Reach me at: sneganbca@gmail.com
+- 📫 Reach me at: snegan.palanisamy@kalvium.community 
 - 🌐 Portfolio: [Coming Soon!]
 - 🧪 Fun fact: I believe building is the best way to learn — and I build a lot.
-
----
-
-### 📌 GitHub Stats
-
-![Snegan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snegan29&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snegan29&layout=compact&theme=radical)
 
 ---
 
